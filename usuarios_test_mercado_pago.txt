@@ -1,0 +1,41 @@
+Usuarios tests de mercado pago:
+
+-------1--------------------------------------
+
+{
+    "id": 814544257,
+    "nickname": "TT696436",
+    "password": "qatest6929",
+    "site_status": "active",
+    "email": "test_user_43399309@testuser.com"
+}
+
+------2----------------------------------------
+
+{
+    "id": 814546058,
+    "nickname": "TESTMDZULEOI",
+    "password": "qatest2737",
+    "site_status": "active",
+    "email": "test_user_17326895@testuser.com"
+}
+
+------3-----------------------------------------
+
+{
+    "id": 814546260,
+    "nickname": "TESTMDAFN2TO",
+    "password": "qatest4783",
+    "site_status": "active",
+    "email": "test_user_24805550@testuser.com"
+}
+
+-----4------------------------------------------
+
+{
+    "id": 814545018,
+    "nickname": "TETE1623859",
+    "password": "qatest5245",
+    "site_status": "active",
+    "email": "test_user_88718811@testuser.com"
+}
